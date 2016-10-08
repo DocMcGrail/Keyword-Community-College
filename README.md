@@ -36,7 +36,7 @@ One shouldn’t think of community college students only in terms of deficits, h
 
 ###Advancing Humanities through Technology
  
-Screenshot: Advancing.png
+[Screenshot](Advancing.png)
 
 Source: http://www.nvcc.edu/home/cevans/technology/index.html
 
@@ -48,7 +48,7 @@ In 1999 the NEH, the Community College Humanities Association and North Virginia
 
 ###Hawthorne in Salem
 
-Screenshot: Hawthorne.png
+[Screenshot](Hawthorne.png)
 
 Source URL: http://www.hawthorneinsalem.org/
 
@@ -60,7 +60,7 @@ Hawthorne in Salem, a historical resource and pedagogical tool that actively eng
 
 ###Harper College’s Grendel
 
-Screenshot: Grendel.png
+[Screenshot](Grendel.png)
 
 Source: http://www.harpercollege.edu/libarts/hum/dept/grendel/grenhom2.htm
 
@@ -70,7 +70,7 @@ Harper College’s Grendel, designed by Richard Johnson and Kurt Neuman as part 
 
 ###American Literature Syllabus with Digital Humanities Labs
 
-Screenshot: American Lit.png
+[Screenshot](American Lit.png)
 
 Source: http://blogs.lanecc.edu/dhatthecc/teachingnotesfall2012/american-literature-i-and-ii-syllabus-with-dh-labs/
 
@@ -83,7 +83,7 @@ This is the syllabus and course calendar for a two-term sequence in American Lit
 
 ###Thirteen Ways of Doing DH at the CC
 
-Screenshot: 13 Ways.png
+[Screenshot](13 Ways.png)
 
 Source URL: https://blogs.lanecc.edu/dhatthecc/2013/10/21/thirteen-ways-of-doing-dh-at-the-cc/
 
@@ -95,22 +95,22 @@ This collection of digital humanities assignments grew out of curriculum develop
 
 ###Public Interventions: A Photographic Record of People of Color and Education
 
-Screenshot here: Photographs.png 
+[Screenshot](Photographs.png)
 
 Type: History Assignment
 
-Source: PDF File “Photographs.pdf”
+[Source](Photographs.pdf)
 
 Creator: Jaime Cardenas[a][b], PhD, Instructor of History, Tenured, Seattle Central College
 Just like the understanding that all young people are “digital natives” is wrong, so is it wrong to assume that they are adroit interpreters of primary visual sources.  This assignment seeks to utilize the interest younger students have of visual culture in order to expand their abilities to interpret the past. In this case, because they are interpreting images of public education, something with which most of them have had direct experience, their interaction with these primary sources will be relatively intimate. Thus, this assignment has two built-in advantages: the use of visuals and a “projected” nostalgia. Students may not initially observe images within the historical context that produced the primary source.  As Barbara Ormond and others recommend, we should guide our students through a detailed process that makes images, initially, less discernible, so that in the end students will become better interpreters of the past.
  
 ###Mapping Race in Seattle
 
-Screenshot:  Mapping Seattle.png 
+[Screenshot](Mapping Seattle.png)
 
 Type: History Assignment
 
-Source: PDF File “Mapping Race.pdf”
+[Source](Mapping Race.pdf)
 
 Creator: Jaime Cardenas, PhD, Instructor of History, Tenured, Seattle Central College
 
@@ -120,11 +120,11 @@ When I’ve used this approach in the past, most students have responded with su
  
 ###Visualizing Discourse: Cloud Mapping Cultural Resistance
 
-Screenshot: “CloudMap.png”
+[Screenshot](CloudMap.png)
  
 Type: History Assignment
 
-Source: PDF file “Cloud Map.pdf”
+[Source](Cloud Map.pdf)
 
 Creator: Jaime Cardennas, PhD, Instructor of History, Seattle Central College
 
@@ -133,11 +133,11 @@ Word clouds are relatively commonplace on the Seattle Central College campus (e.
 
 ###Making Podcasts to Support Research-based Writing and Reflection
 
-Screenshot: ”Podcast.jpeg”
+[Screenshot](Podcast.jpeg)
  
 Type: Assignment and Student Work
 
-Source: PDF “Pocast.pdf”
+[Source](Pocast.pdf)
 
 Creators: Dominique Zino, Assistant Professor of English, LaGuardia Community College; Vilma and Carmen, LaGuardia Community College students
 
@@ -146,7 +146,7 @@ In first-year composition courses at LaGuardia Community College, one learning o
  
 ###Capstone Liberal Arts Hybrid Final Digital Media Projects
 
-Screenshot: “Capstone.png”
+[Screenshot](Capstone.png)
 
 Type: Website of student work
 
