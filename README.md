@@ -36,7 +36,7 @@ One shouldn’t think of community college students only in terms of deficits, h
 
 ###Advancing Humanities through Technology
  
-[Screenshot](Advancing.png)
+![screenshot](https://github.com/DocMcGrail/Keyword-Community-College/blob/master/IMAGES/community_advancing.png?raw=true)
 
 Source: http://www.nvcc.edu/home/cevans/technology/index.html
 
