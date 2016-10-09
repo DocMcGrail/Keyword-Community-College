@@ -106,7 +106,7 @@ Just like the understanding that all young people are “digital natives” is w
  
 ###Mapping Race in Seattle
 
-![screenshot](https://github.com/DocMcGrail/Keyword-Community-College/blob/master/IMAGES/community_mappinngrace.png?raw=true)
+![screenshot](https://github.com/DocMcGrail/Keyword-Community-College/blob/master/IMAGES/community_mappingrace.png?raw=true)
 
 Type: History Assignment
 
