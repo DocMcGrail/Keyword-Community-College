@@ -133,7 +133,7 @@ Word clouds are relatively commonplace on the Seattle Central College campus (e.
 
 ###Making Podcasts to Support Research-based Writing and Reflection
 
-![screenshot](https://github.com/DocMcGrail/Keyword-Community-College/blob/master/IMAGES/community_podcast.png?raw=true)
+![screenshot](https://github.com/DocMcGrail/Keyword-Community-College/blob/master/IMAGES/community_podcast.jpeg?raw=true)
  
 Type: Assignment and Student Work
 
