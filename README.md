@@ -36,7 +36,7 @@ One shouldn’t think of community college students only in terms of deficits, h
 
 ###Advancing Humanities through Technology
  
-[Screenshot](Advancing.png)
+![screenshot](https://github.com/DocMcGrail/Keyword-Community-College/blob/master/IMAGES/community_advancing.png?raw=true)
 
 Source: http://www.nvcc.edu/home/cevans/technology/index.html
 
@@ -48,7 +48,7 @@ In 1999 the NEH, the Community College Humanities Association and North Virginia
 
 ###Hawthorne in Salem
 
-[Screenshot](Hawthorne.png)
+![screenshot](https://github.com/DocMcGrail/Keyword-Community-College/blob/master/IMAGES/community_hawthorne.png?raw=true)
 
 Source URL: http://www.hawthorneinsalem.org/
 
@@ -60,7 +60,7 @@ Hawthorne in Salem, a historical resource and pedagogical tool that actively eng
 
 ###Harper College’s Grendel
 
-[Screenshot](Grendel.png)
+![screenshot](https://github.com/DocMcGrail/Keyword-Community-College/blob/master/IMAGES/community_grendel.png?raw=true)
 
 Source: http://www.harpercollege.edu/libarts/hum/dept/grendel/grenhom2.htm
 
@@ -70,7 +70,7 @@ Harper College’s Grendel, designed by Richard Johnson and Kurt Neuman as part 
 
 ###American Literature Syllabus with Digital Humanities Labs
 
-[Screenshot](American Lit.png)
+![screenshot](https://github.com/DocMcGrail/Keyword-Community-College/blob/master/IMAGES/community_americanlit.png?raw=true)
 
 Source: http://blogs.lanecc.edu/dhatthecc/teachingnotesfall2012/american-literature-i-and-ii-syllabus-with-dh-labs/
 
@@ -83,7 +83,7 @@ This is the syllabus and course calendar for a two-term sequence in American Lit
 
 ###Thirteen Ways of Doing DH at the CC
 
-[Screenshot](13 Ways.png)
+![screenshot](https://github.com/DocMcGrail/Keyword-Community-College/blob/master/IMAGES/community_13ways.png?raw=true)
 
 Source URL: https://blogs.lanecc.edu/dhatthecc/2013/10/21/thirteen-ways-of-doing-dh-at-the-cc/
 
@@ -95,7 +95,7 @@ This collection of digital humanities assignments grew out of curriculum develop
 
 ###Public Interventions: A Photographic Record of People of Color and Education
 
-[Screenshot](Photographs.png)
+![screenshot](https://github.com/DocMcGrail/Keyword-Community-College/blob/master/IMAGES/community_photographs.png?raw=true)
 
 Type: History Assignment
 
@@ -106,7 +106,7 @@ Just like the understanding that all young people are “digital natives” is w
  
 ###Mapping Race in Seattle
 
-[Screenshot](Mapping Seattle.png)
+![screenshot](https://github.com/DocMcGrail/Keyword-Community-College/blob/master/IMAGES/community_mappingrace.png?raw=true)
 
 Type: History Assignment
 
@@ -120,7 +120,7 @@ When I’ve used this approach in the past, most students have responded with su
  
 ###Visualizing Discourse: Cloud Mapping Cultural Resistance
 
-[Screenshot](CloudMap.png)
+![screenshot](https://github.com/DocMcGrail/Keyword-Community-College/blob/master/IMAGES/community_cloudmap.png?raw=true)
  
 Type: History Assignment
 
@@ -133,7 +133,7 @@ Word clouds are relatively commonplace on the Seattle Central College campus (e.
 
 ###Making Podcasts to Support Research-based Writing and Reflection
 
-[Screenshot](Podcast.jpeg)
+![screenshot](https://github.com/DocMcGrail/Keyword-Community-College/blob/master/IMAGES/community_podcast.jpeg?raw=true)
  
 Type: Assignment and Student Work
 
@@ -146,7 +146,7 @@ In first-year composition courses at LaGuardia Community College, one learning o
  
 ###Capstone Liberal Arts Hybrid Final Digital Media Projects
 
-[Screenshot](Capstone.png)
+![screenshot](https://github.com/DocMcGrail/Keyword-Community-College/blob/master/IMAGES/community_capstone.png?raw=true)
 
 Type: Website of student work
 
