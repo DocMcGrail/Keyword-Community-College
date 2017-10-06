@@ -1,0 +1,10 @@
+# Keyword-Community-College
+IMAGE for MLA Digital Pedagogy Keywords/communitycollege with new naming protocol and new artifact names.
+communitycollegeadvancinghumanities
+communitycollegehawthorneinsalem
+communitycollegepaleotransciptions
+communitycollegereadingwritingdigitalculture
+communitycollegeworldhistorypodcast
+communitycollegepublicinterventions
+communitycollegemappingraceinseattle
+communitycollegecapstoneliberalarts
